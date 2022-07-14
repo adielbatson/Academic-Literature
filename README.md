@@ -4,7 +4,7 @@
 
 #### Focus
 Here I discuss topics dealing with `electromobility`, `Offshore Wind Power`, `Sustainabilty` in industries, `Environmental Reporting` of Companies and more.
-Also featured are works I co-authored or assisted in. 
+Also featured are works I co-authored or assisted in developing. 
 
 The layout is very simple; lists of presentations and reports are collected. Have a look!
 
