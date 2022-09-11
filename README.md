@@ -8,5 +8,5 @@ Also featured are works I co-authored or assisted in developing.
 
 The layout is very simple; lists of presentations and reports are collected. Have a look!
 
-##### Enjoi
+##### Enjoi :)
 ##### Adiel Batson
